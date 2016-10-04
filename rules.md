@@ -13,7 +13,9 @@ Help is always appreciated! If you meet the requirements and are cool with helpi
 
 :bangbang: **Server Rules** :bangbang:  
 :one: **Nicknaming**
-please set your name so it matches your warframe IGN, or at least put the IGN in parentheses behind your name. 
+Your have to include your IGN in brackets behind your discord username, like this: `Steve (MLGProSteve)`  
+Alternatively, set your discord name to be the same as your IGN, like this: `MLGProSteve`  
+*(hint: you can change your username for this server and still have your regular one on other servers by right-clicking on your name in a text channel)*
 
 :two: **Don't be a dick (bannable offense)**
 It is perfectly clear what kinds of infractions this covers, and moderators will quote rule 2 when dispensing warnings and bans. 
@@ -44,5 +46,5 @@ If you have any question, feel free to ask one of the moderators!
 
 
 :bangbang: **Reporting** :bangbang: 
-If you see anyone breaking the rules, please report them using this google form: https://docs.google.com/forms/d/e/1FAIpQLScRiH64YBkoJ9-YuDBThD48dbfB29AbgmA1N7_k-JCvyUofSA/viewform
+If you see anyone breaking the rules or behaving inappropriately, please report them using this google form: https://docs.google.com/forms/d/e/1FAIpQLScRiH64YBkoJ9-YuDBThD48dbfB29AbgmA1N7_k-JCvyUofSA/viewform
 Try to provide as much evidence as possible
