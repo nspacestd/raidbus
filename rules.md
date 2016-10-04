@@ -12,39 +12,38 @@ Help is always appreciated! If you meet the requirements and are cool with helpi
 
 
 :bangbang: **Server Rules** :bangbang:  
-:one: **Nicknaming**
+:one: **Nicknaming**  
 Your have to include your IGN in brackets behind your discord username, like this: `Steve (MLGProSteve)`  
 Alternatively, set your discord name to be the same as your IGN, like this: `MLGProSteve`  
 *(hint: you can change your username for this server and still have your regular one on other servers by right-clicking on your name in a text channel)*
 
-:two: **Don't be a dick (bannable offense)**
+:two: **Don't be a dick (bannable offense)**  
 It is perfectly clear what kinds of infractions this covers, and moderators will quote rule 2 when dispensing warnings and bans. 
 
-:three: **Don't spam, don't post NSFW content or insults. (bannable offense)**
-Some fucking profanity is still cool though. Either use your head or ask a mod before posting questionable content. 
+:three: **Politics, religion, NSFW, spam and insults are all unacceptable topics on this server.**  
+Take it to private messages if you insist. 
 
-:four: **Respect our team**
+:four: **Respect our team**  
 They are working hard to make sure you have a nice place to find raids.
 
-:five: **No religious or political discussion in public channels EVER (bannable offense)**
-If you really want to argue with someone about that, take it to private messages or find an empty voice channel!
+:five: **Channel naming conventions**  
+When renaming your temporary channels (see #botspam on how to get those) keep "Chat, Raid, Speedrun or Raid Bus" in the title!
 
-:six: **Do your best not to discriminate against newbies in raids**
-It is ok to set requirements regarding gear for TJV, and requirements regarding experience and gear for LoR NM. 
+:six: **Do your best not to discriminate against newbies in raids**  
+See "raid etiquette" in #info 
 
-:seven: **Always use the appropriate channels**
-**Read a channel's description before posting in it**. Non-warframe related stuff and memes in #offtopic, raid recruitment in #raid-recruitment, recruitment for other missions in #misc-recruitment, bot commands in #botspam.
-More details in #info
+:seven: **Always use the appropriate channels**  
+See #info and individual channel descriptions for more details
 
-:eight: **Avoid getting warnings!**
+:eight: **Avoid getting warnings!**  
 Breaking rules gets you a private warning PM, after that a public 'Warned' role and finally a kick!
 
-:nine: **Follow the Server Etiquette**
+:nine: **Follow the Server Etiquette!**  
 You can find it in #info 
 
 If you have any question, feel free to ask one of the moderators!
 
 
-:bangbang: **Reporting** :bangbang: 
+:bangbang: **Reporting** :bangbang:  
 If you see anyone breaking the rules or behaving inappropriately, please report them using this google form: https://docs.google.com/forms/d/e/1FAIpQLScRiH64YBkoJ9-YuDBThD48dbfB29AbgmA1N7_k-JCvyUofSA/viewform
 Try to provide as much evidence as possible
