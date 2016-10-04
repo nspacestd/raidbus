@@ -3,11 +3,11 @@ This is a friendly community geared towards getting as many new people as possib
 We provide structured guidance sometimes (the School Bus), but even outside of that, everyone should be able to find a group here, regardless of experience levels. 
 Enjoy and have fun!
 
-:question: **Are you a Newbie** :question: 
+:question: **Are you a Newbie** :question:   
 If you are new to the world of raiding, check #builds-tutorials for some basic tutorials and then ask if there is a bus going in #raid-recruitment or wait around until someone hosts one. 
 If no buses are starting soon, you can ask a regular group to take you along, but then it's your own job to learn the ropes for yourself. 
 
-:question: **Are you a Veteran** :question: 
+:question: **Are you a Veteran** :question:  
 Help is always appreciated! If you meet the requirements and are cool with helping out newbies and don't mind them joining your raids, pm a moderator to get your vet role. See #info 
 
 
