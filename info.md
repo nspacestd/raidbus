@@ -25,6 +25,9 @@ Some roles can be joined and left by users at any time by typing `/rank join som
 * `@Host`: Players that can host and are looking for a raid
 * `@Endo Farm`: Only use in #misc-recruitment
 
+
+
+:whitespace:
 **Voice Channels**
 * `Raid` channels are for raids only and are freely accessible by everyone
 * `RaidBus` channels are only accessible by bus drivers, others will have to join the `Lobby` channel and be dragged in
