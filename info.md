@@ -27,15 +27,24 @@ Some roles can be joined and left by users at any time by typing `/rank join som
 * `Speed Run` channels should only be used for speedruns
 * `Chat` channels are for general use
 
+Temporary voice channels can be created by anyone by typing one of  
+`/create raid`  
+`/create chat`  
+`/create speedrun`  
+`/create raidbus` (only usable with the Active Bus Driver role)  
+in #botspam or #raid-recruitment. 
+These will create a new channel at the bottom of the voice channel list with your name on it, in the format of "Chat YourName" (or similar if you used a different /create). You can rename or manually delete your own channel, but please keep the prefix in the name (chat/speedrun etc.).  
+Your channel will self-destruct if it becomes empty for 10 or more seconds.
+
 :exclamation: **Finding or hosting a raid** :exclamation: 
 Follow these steps to join raids ASAP!
-1. Head over to #botspam and join one of the raid roles (@LoR, @LorNM, @JV, @allraids). See above for instructions.
+1. Head over to #botspam and join one of the raid roles (`@LoR`, `@LorNM`, `@JV`, `@allraids`). See above for instructions.
 
 2. Go to #raid-recruitment and either ping one (or more) of the raid roles or wait for someone else to do the same (you'll get a notification when this happens)
 	For example: `@LoR hosting regular LoR, need 5 more.`
 	Note that hosting a raid **doesn't mean that you need to lead it or use your own key** or that you need any kind of experience. Whoever invites people to the in-game lobby is the host, no matter who uses the key.
 
-3. Once there is enough of you to start a group, pick an open raid channel and set up in there.
+3. Once there is enough of you to start a group, pick an open raid channel or create a temporary one and set up in there.
 
 4. Once you would like to stop getting notifications, head back to #botspam and leave the rank(s) that you joined. Feel free to just keep the rank if you want to always be notified about ongoing raids. They are used for notification purposes only.
 
