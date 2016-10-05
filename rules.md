@@ -1,3 +1,4 @@
+:whitespace: 
 :information_source: **About this server** :information_source:  
 This is a friendly community geared towards getting as many new people as possible to start raiding. 
 We provide structured guidance sometimes (the School Bus), but even outside of that, everyone should be able to find a group here, regardless of experience levels. 
@@ -29,6 +30,7 @@ They are working hard to make sure you have a nice place to find raids.
 :five: **Channel naming conventions**  
 When renaming your temporary channels (see #botspam on how to get those) keep "Chat, Raid, Speedrun or Raid Bus" in the title!
 
+:whitespace: 
 :six: **Do your best not to discriminate against newbies in raids**  
 See "raid etiquette" in #info 
 
