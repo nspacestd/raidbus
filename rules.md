@@ -4,7 +4,7 @@ We provide structured guidance sometimes (the School Bus), but even outside of t
 Enjoy and have fun!
 
 :question: **Are you a Newbie** :question:   
-If you are new to the world of raiding, check #builds-tutorials for some basic tutorials and then ask if there is a bus going in #raid-recruitment or wait around until someone hosts one. 
+If you are new to the world of raiding, check #resources for some basic tutorials and then ask if there is a bus going in #raid-recruitment or wait around until someone hosts one. 
 If no buses are starting soon, you can ask a regular group to take you along, but then it's your own job to learn the ropes for yourself. 
 
 :question: **Are you a Veteran** :question:  
