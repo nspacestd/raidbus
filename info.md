@@ -1,15 +1,27 @@
 :whitespace: 
 :exclamation:  **Server etiquette** :exclamation: 
 
-:firebus:  Asking for a certain MR or raid proficiency when recruiting **IS NOT OK**.  
-:firebus:  Asking for at least 3 veterans to join the raid **IS OK**, it helps ensure a smooth run.  
-:firebus:  Setting gear requirements for your raid **IS OK** as long as it's reasonable (for example, it's normal to tell a player they can't join if their only frame is a rank 21 Mag, however kicking someone out because they don't have Primed Flow is **NOT**).  
-:firebus:  Telling a specific player they can't join due to personal issues **IS OK**, but keep any resulting drama in PMs.  
-:firebus:  If you are hosting a speedrun, it is normal to have harder gear requirements. **It is your responsibility to make sure the group is aware that you are speed running and they are expected to perform better than average**.  
-:firebus:  It is always polite to offer your key to the host when joining.   
-:firebus:  It is very helpful to PM the host in-game so he can invite you via right click. Type `/w host_IGN hello` in the in-game chat.  
-:firebus:  It is ok to use @raid tags as much as you want, whether hosting or looking for group.  
-:firebus:  Please do not join raid channels unless someone posted in #raid-recruitment about hosting a raid and looking for more players. If you are joining, please respond with something like "I'm in" before joining the channel to clarify.
+:x:  Asking for a certain MR or raid proficiency when recruiting **IS NOT OK**.  
+
+:white_check_mark:  Reserving up to 3 spots in the raid for veterans **IS OK**, it helps ensure a smooth run.  
+
+:white_check_mark:   Setting gear requirements for your raid **IS OK** as long as it's reasonable (for example, it's normal to tell a player they can't join if their only frame is a rank 21 Mag, however kicking someone out because they don't have Primed Flow is **NOT**).  
+
+:white_check_mark:   Telling a specific player they can't join due to personal issues **IS OK**, but keep any resulting drama in PMs.  
+
+:white_check_mark:   It is always polite to offer your key to the host when joining.   
+
+:white_check_mark:   It is very helpful to PM the host in-game so he can invite you via right click. Type `/w host_IGN hello` in the in-game chat.  
+
+:white_check_mark:   It is ok to use @raid tags as much as you want, whether hosting or looking for group.  
+
+:warning:  If you are hosting a speedrun, it is normal to have harder gear requirements. **It is your responsibility to make sure the group is aware that you are speed running and they are expected to perform better than average**.  
+
+:warning:   Please do not join raid channels unless someone posted in #raid-recruitment about hosting a raid and looking for more players. If you are joining, please respond with something like "I'm in" before joining the channel to clarify.
+
+:warning:  When creating a raid channel, **it is your responsibility to set a max user limit** (do this by right-clicking). If your only have 5 spots in the raid, then set it to 5 max users to avoid confusion. (once everyone is in the raid lobby, you can increase the limit in case people want to just hang out in the channel and talk)
+
+:warning:  If you are hosting or organizing a raid, it is your responsibility to keep track of who wants to join and who can't join due to too many people.
 
 
 
